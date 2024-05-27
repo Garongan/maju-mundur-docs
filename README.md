@@ -39,3 +39,11 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+# Screenshot
+
+![](/media/alvindo/Data/bootcamp/front-end/react/maju-mundur-docs/Macbook-Air-maju-mundur-docs.vercel.app.png)
+
+![](/media/alvindo/Data/bootcamp/front-end/react/maju-mundur-docs/Galaxy-Fold2-maju-mundur-docs.vercel.app.png)
+
+![](/media/alvindo/Data/bootcamp/front-end/react/maju-mundur-docs/iPhone-12-PRO-MAX-maju-mundur-docs.vercel.app.png)
